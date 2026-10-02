@@ -89,12 +89,12 @@ font-size: 1.2rem;
 }
 /* --- FORMULARIO DE RESERVAS --- */
 .formulario-reserva {
-background-color: white;
+background-color: #FFE0B2;
 max-width: 450px;
 margin: 0 auto;
 padding: 25px;
 border-radius: 8px;
-border: 1px solid #ddd;
+border: 5px solid #ddd;
 display: flex;
 flex-direction: column;
 gap: 12px;
